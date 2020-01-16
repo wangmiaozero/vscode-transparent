@@ -48,7 +48,7 @@ transparent vscode css
 
 # 6 总结
 
-成品效果如图，不懂的可以加小助手微信 udujjb 拉你进群询问
+成品效果如图
 ![](https://upload-images.jianshu.io/upload_images/854231-203ae82f1544bf0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 以上教程是基于 MacOS 的，Linux 用户如何开启透明请参考；Windows 的 electron 暂不支持 vibrancy 模式，可以使用插件 [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) 设置透明。
