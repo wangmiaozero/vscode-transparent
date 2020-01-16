@@ -10,7 +10,7 @@ transparent vscode css
 
 ![插件截图](https://upload-images.jianshu.io/upload_images/854231-01920da488773df2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-安装 Vibrancy
+# 2.1 安装 Vibrancy
 
 # 3 添加样式配置文件
 
