@@ -12,6 +12,11 @@ transparent vscode css
 
 # 2.1 安装 Vibrancy
 
+Vscode_vibrancy: Opacity
+Opacity 设置为0.5
+
+按下 Ctrl + Shift + P，运行 "Reload Vibrancy"
+
 # 3 添加样式配置文件
 
 在 VSCode 安装目录（自己随便选择一个文件夹也可以），放入以下文件。
